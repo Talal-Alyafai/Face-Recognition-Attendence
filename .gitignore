@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.streamlit/secrets.toml
+face_model.yml
+face_names.pkl
+attendance_log.csv
